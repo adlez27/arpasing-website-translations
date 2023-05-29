@@ -16,3 +16,11 @@ This repo contains all the text content of the [ARPAsing Website](https://arpasi
 4. Make a pull request to merge your translation back into this repository.
 
 Translations are manually added and updated on the website, so please be patient when waiting for it to be online.
+
+## License
+
+Copyright of the English text belongs to Adlez27 and has been posted on GitHub for reference only. **Do not use or repost the original English text anywhere else.** You may ask for permission if you need to use the text in a specific project. 
+
+When you submit a pull request, you are granting the right to have your translation posted on the ARPAsing website.
+
+Please avoid posting your translation elsewhere, and wait for it to be added to the ARPAsing website so you can share it. However, this is only a request and not a rule, because you still have the copyright to your translation.
