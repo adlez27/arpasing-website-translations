@@ -23,4 +23,4 @@ Copyright of the English text belongs to Adlez27 and has been posted on GitHub f
 
 When you submit a pull request, you are granting the right to have your translation posted on the ARPAsing website.
 
-Please avoid posting your translation elsewhere, and wait for it to be added to the ARPAsing website so you can share it. However, this is only a request and not a rule, because you still have the copyright to your translation.
+Please avoid posting your translation elsewhere, and wait for it to be added to the ARPAsing website so you can share it. However, you retain the copyright to your translation, so you're free to decide whether to respect this request.
