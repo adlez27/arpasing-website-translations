@@ -7,6 +7,6 @@ To submit your voicebank to this directory, please fill out [this form]().
 
 - UTAU Name
 - Creator name
-- Audio demo
 - Vocal range
+- Audio demo
 - Download
