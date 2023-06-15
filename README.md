@@ -11,7 +11,7 @@ This repo contains all the text content of the [ARPAsing Website](https://arpasi
 
 ## How to contribute
 1. Fork this repository on GitHub to create your own copy.
-2. Make a copy of the `en` folder and rename it to the 2-letter code for your language.
+2. (For new languages) Make a copy of the `en` folder and rename it to the 2-letter code for your language.
 3. Translate the files in your language folder. Some words will have specific formatting, such as links to other pages. Please be sure to keep the formatting on the appropriate words.
 4. Make a pull request to merge your translation back into this repository.
 
@@ -23,4 +23,4 @@ Copyright of the English text belongs to Adlez27 and has been posted on GitHub f
 
 When you submit a pull request, you are granting the right to have your translation posted on the ARPAsing website.
 
-Please avoid posting your translation elsewhere, and wait for it to be added to the ARPAsing website so you can share it. However, this is only a request and not a rule, because you still have the copyright to your translation.
+Please avoid posting your translation elsewhere, and wait for it to be added to the ARPAsing website so you can share it. However, you retain the copyright to your translation, so you're free to decide whether to respect this request.
