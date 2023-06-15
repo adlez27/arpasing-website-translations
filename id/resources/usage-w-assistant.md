@@ -1,3 +1,44 @@
+Note to translator: The current translation may be outdated and have missing content. Please check the English version below for reference.
+
+---
+
+# Tutorial penggunaan voicebank dengan ARPAsing Assistant
+
+Tutorial ini akan menjelaskan cara penggunaan voicebank ARPAsing di UTAU, menggunakan ARPAsing Assistant
+Akan lebih baik jika Voicebank yang dipakai telah di-OTO sepenuhnya, karena pas-tidaknya timing sangat bergantung pada nilai preutterance.
+
+Jika kamu belum punya plugin ARPAsing Assistant, kamu bisa mendownloadnya [di sini](). Unzip toolkitnya dan pindahkan folder "ARPAsing-assistant" ke dalam folder "plugin" dimana UTAU terinstall.
+Masukkan kata-kata inggris ke dalam UST, pilih not yang diinginkan, dan jalankan ARPAsing Assistant untuk konversi. Jika tidak, kamu bisa memasukkan fonem arpabet ke dalam not, dipisah dengan spasi. Jika kamu menaruh `/u` di akhir kata, panjang not akan dibagi rata untuk setiap difon.
+Pastikan not yang dipilih untuk konversi MEMILIKI not dibelakangnya. Cara terbaik untuk memastikan ini adalah dengan memasukkan rest di akhir .ust
+
+Untuk mengkonversi kata bersilabel ganda via **input kata**, kamu harus menghapus semua not selain silabel pertama lalu memanjangkannya sampai menutupi panjang not yang tadi digabung, masukkan seluruh kata lalu konversi seperti biasa. Dari situ kamu harus menaruh not ke nada yang benar dan memperbaiki timingnya.
+
+Akan tetapi, mengkonversi kata bersilabel ganda via **input fonem** lebih sederhana karena kamu bisa memecah fonem dari not yang ada sebelum konversi.
+
+**UNTUK MULTIPITCH DAN SAMPEL EKSTRA:** Jika Voicebank dikonfigurasi dengan benar, maka tidak akan ada masalah. Namun ada keadaan yang membuat ARPAsing Assistant bermasalah. Folder Voicebank utama harus memiliki satu pitch tanpa akhiran/sufiks, dan pitch lain harus berada dalam subfolder masing-masing, Sampel ekstra non-standar juga harus berada dalam subfolder. ARPAsing Assistant hanya akan membaca file oto.ini di tingkat teratas voicebank, dan file tersebut harus berisikan entri OTO ARPAsing saja.
+
+Saat mengkonversi kata menjadi not-not difon, ARPAsing Assistant akan memilih salinan terbaik dari difon tertentu. Contonya: Jika kamu memasukkan kata "stand", ARPAsing Assistant akan memilih `[t ae]` dari "stae”, bukan "tae".
+Konteks rekaman yang mirip kata asli menciptakan pelafalan yang alami. Tujuan sufiks angka adalah untuk membedakan satu pelafalan dengan pelafalan yang lain, jadi jangan hapus angkanya.
+
+Dengarkan UST seadanya terlebih dahulu untuk mencari tahu bagian mana yang perlu kamu perbaiki. Kemungkinan ada beberapa not yang diluar timing serta pelafalan yang tidak sesuai keinginanmu.
+
+Dengarkan UST yang seadanya terlebih dahulu untuk mendapatkan gambaran dan bagian yang perlu diperbaiki. Kemungkinan ada not diluar timing dan pengucapan yang tidak kamu suka.
+
+Mencari kata/suku kata untuk memperbaiki pelafalan bukanlah hal yang menyenangkan. Kamu bisa merujuk [artikel ini]() atau [bagan fonem]() saat mengedit.
+
+Mari kita perbaiki timingnya. Masalah yang paling kelihatan adalah suku kata jamak karena mereka harus digabung sebelum dikonversi sehingga timing tidak lagi seperti yang seharusnya. Tekan ctrl dan seret ujung not untuk mengubah panjang not tanpa mengubah panjang not lain. Sejajarkan sampai CV tiap suku kata berada pada posisi yang diinginkan. Perbaiki pitch sekalian dengan memilih not per suku kata dan menggesernya ke atas/bawah.
+
+Cari kalimat yang dimulai dengan konsonan. Biasanya not `[- C]` sangat pendek, jadi tekan dan tahan Ctrl lalu drag ke kiri untuk memanjangkannya sampai dia berada di permulaan envelope not selanjutnya.
+
+Dari sini kamu bisa lanjut memperbaiki timing not kecil dengan mengubahnya ke panjang preutterance envelope not selanjutnya. Inilah sebab kamu ingin voicebankmu ter-OTO sepenuhnya. Mungkin kamu juga ingin mengatur Quantize ke 64th .
+
+Sembari kamu lanjut, kamu mungkin juga ingin memodifikasi pelafalan.
+Contoh, "don't want” adalah `[d ow][ow n][n t][t w][w aa]` dst. Tetapi not-not tersebut terlalu banyak untuk ruang yang sempit, secara praktis kalimat ini terdengar “don want” saat dinyanyikan, jadi hapus `[n t]` dan rubah `[t w]` menjadi `[n w]`
+
+Mulai dari sini, kamu bisa tuning seperti biasa.
+
+---
+
 # Voicebank Usage Tutorial with ARPAsing Assistant
 
 This tutorial will explain how to use an ARPAsing voicebank in UTAU, using ARPAsing Assistant.  
