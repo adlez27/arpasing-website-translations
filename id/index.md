@@ -9,10 +9,10 @@ Laman ini adalah terjemahan. If there's any confusion, please refer to the [orig
 # Navigation
 
 ARPAsing
-- Home
+- Beranda
 - Frequently Asked Questions
-- Resource
-	- Cara Menulis Reclist
+- Resources
+	- Cara Penulisan Reclist
 	- Cara Pembuatan Voicebank
   - Cara Penggunaan (Dengan Assistant)
   - Cara Penggunaan (Tanpa Assistant)
@@ -25,5 +25,5 @@ ARPAsing
 	- UST Uji Coba
 	- UST Cover
 	- UST Original
-- About
+- Tentang
 - Kontak
