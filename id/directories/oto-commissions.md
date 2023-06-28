@@ -1,6 +1,6 @@
 # Komisi OTO
 
-Untuk bergabung ke bagian ini, silakan  [isi formulir]().
+Untuk bergabung ke bagian ini, silakan [isi formulir]().
 
 - Nama
 - Info
