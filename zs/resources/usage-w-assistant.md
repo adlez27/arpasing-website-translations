@@ -1,6 +1,6 @@
 # 配合ARPAsing Assistant一起使用声库
 
-本教程将会说明如何与ARPAsing Assistant配合使用Aparsing声库.
+本教程将会说明如何与ARPAsing Assistant配合使用ARPAsing声库.
 在制作UST工程文件之前, 您最好使用一份经过完整OTO原音设定的声库, 因为您调整的音长将取决于原音设定的值.
 
 您可以从[这里]()下载ARPAsing Assistant插件.  解压, 并将"ARPAsing-assistant"文件夹移动到UTAU安装目录的"plugins"文件夹下.
