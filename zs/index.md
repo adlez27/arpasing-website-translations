@@ -1,10 +1,9 @@
 # ARPAsing教程资源站
 
-ARPAsing是由Kanru Hua（华侃如）最初设计的一套适用于UTAU的英文录音表标准.
+ARPAsing是由Kanru Hua（华侃如）最初设计的一套适用于UTAU的英文录音表标准.  
+这是一个经过翻译的网站. If there's any confusion, please refer to the [original English website]().
 
 加入ARPAsing Discord论坛以便获取最新的信息, 寻求帮助和支持, 分享你的作品, 并成为ARPAsing用户社区的一员.
-
-这是一个经过翻译的网站. If there's any confusion, please refer to the [original English website]().
 
 # Navigation
 

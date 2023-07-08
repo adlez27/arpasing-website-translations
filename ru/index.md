@@ -1,10 +1,9 @@
 # Ресурсы и каталоги ARPAsing
 
-ARPAsing - это стандарт для певческого синтеза английского языка в UTAU, изначально разработанный Канру Хуа.
+ARPAsing - это стандарт для певческого синтеза английского языка в UTAU, изначально разработанный Канру Хуа.  
+Это перевод. If there's any confusion, please refer to the [original English website]().
 
 Присоединяйтесь к серверу ARPAsing в Discord, чтобы получать самую актуальную информацию, обращаться за помощью и поддержкой, делиться своей работой и быть частью сообщества других пользователей ARPAsing.
-
-Это перевод. If there's any confusion, please refer to the [original English website]().
 
 # Navigation
 

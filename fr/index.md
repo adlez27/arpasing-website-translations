@@ -1,10 +1,9 @@
 # Ressources et répertoires ARPAsing
 
-ARPAsing is a standard for singing synthesis of the English language in UTAU, originally designed by Kanru Hua.
+ARPAsing is a standard for singing synthesis of the English language in UTAU, originally designed by Kanru Hua.  
+This is a translation. If there's any confusion, please refer to the [original English website]().
 
 Join the ARPAsing Discord server to get the most up-to-date information, ask for help and support, share your work, and be part of a community of other ARPAsing users.
-
-This is a translation. If there's any confusion, please refer to the [original English website]().
 
 # Navigation
 
