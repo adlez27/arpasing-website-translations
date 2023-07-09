@@ -1,6 +1,6 @@
-# Phoneme Chart
-## Vowels
-## Consonants
+# 音素表
+## 母音
+## 子音
 
 - Example English word
 - Similar Japanese word
