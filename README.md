@@ -8,6 +8,7 @@ This repo contains all the text content of the [ARPAsing Website](https://arpasi
 - Indonesian: [Soursop the fruit](https://twitter.com/sour_Ed)
 - Japanese: WinterdrivE
 - Chinese: [Slidingwall](http://slidingwall.lofter.com/)
+- Russian: [KagamineP](https://kagaminep.ru/)
 
 ## How to contribute
 1. Fork this repository on GitHub to create your own copy.
