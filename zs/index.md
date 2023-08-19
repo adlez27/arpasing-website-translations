@@ -1,6 +1,6 @@
 # ARPAsing教程资源站
 
-ARPAsing是由Kanru Hua（华侃如）开发的英文UTAU声库制作标准.  
+ARPAsing是由Kanru Hua（华侃如）开发的英文UTAU声库制作方案.  
 本站为汉化翻译. 如有任何疑惑, 请参考 [英文原版]().
 
 加入ARPAsing Discord论坛以获取最新信息, 寻求帮助和支持, 分享作品, 成为ARPAsing社区的一员.
@@ -17,7 +17,7 @@ ARPAsing
   - 使用声库(使用ARPAsing Assistant)
   - 使用声库(不使用ARPAsing Assistant)
   - 音素表
-  - 将VCCV声库转换为ARPAsing声库
+  - 将VCCV转换为ARPAsing
 - 资源
   - 录音表
   - OTO委托

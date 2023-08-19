@@ -7,5 +7,5 @@
   - 不使用 ARPAsing Assistant
 - 更多
   - 音素表
-  - Arpabet单词转换器
+  - Arpabet转换器
   - 将VCCV转换成ARPAsing
