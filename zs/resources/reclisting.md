@@ -1,4 +1,4 @@
-# 创建录音表
+# 编写录音表
 
 ARPAsing并非单一静态的录音表, 而是系统地制作英语UTAU声库的方案.  就像中文CVVC不是单一的录音表, 而是完整地制作中文声库的方案一样.  ARPAsing录音表的唯一要求就是与Moresampler的自动OTO功能和ARPAsing Assistant相兼容.
 
