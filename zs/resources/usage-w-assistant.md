@@ -3,7 +3,7 @@
 本教程讲述在ARPAsing Assistant使用ARPAsing声库的方法.
 在制作UST之前, 建议您使用OTO设定完整的声库, 因为原音设定值决定了需调整的音长.
 
-您可[在此]()下载ARPAsing Assistant插件.  解压并移动"ARPAsing-assistant"文件夹到UTAU安装目录的"plugins"文件夹下.
+[下载]()ARPAsing Assistant插件.  解压并移动"ARPAsing-assistant"文件夹到UTAU安装目录的"plugins"文件夹下.
 在音符内输入单词, 然后运行ARPAsing Assistant转换. 您也可以直接输入Arpabet音标, 并用空格隔开. 若将 `/u`放在音符歌词的末尾, 则每个双音素的音长将会平均分配, 而非时长不同.
 进行转换的音符后面必须有另一个音符, 确保它的最好办法是在整个UST的最后加上一个休止符.
 
