@@ -63,4 +63,4 @@ Note to translator: Please provide example words in your language for each Engli
 | w    | **w**ater            | **hu**erto |
 | j    | **y**es              | **hi**elo |
 | z    | **z**oo              | Como el zumbido de una abeja, "z" catalana |
-| ʒ    | plea**s**ure         | similar a "y/ll" (excepto rioplatense) pero más suave, "j" catalana |
+| ʒ    | plea**s**ure         | similar a "y/ll" (excepto rioplatense) pero más suave y arrastrada, "j" catalana |
