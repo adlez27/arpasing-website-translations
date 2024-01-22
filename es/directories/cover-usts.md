@@ -1,10 +1,10 @@
-# Cover USTs
+# UST de covers
 
-To submit your UST to this directory, please fill out [this form]().
+Para publicar tus archivos UST en este directorio, por favor rellena [este formulario]().
 
-- Song title
-- Song writer
-- UST creator
-- Audio demo
-- UST Download
+- Título de la canción
+- Escritor/a de la canción
+- Creador/a de la canción
+- Demo de audio
+- Descarga del UST
 - Instrumental
