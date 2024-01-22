@@ -9,7 +9,7 @@ Ahora puedes arrastrar y soltar la carpeta en Moresampler para la generación de
 
 ## Conversión de archivos UST
 
-Descarga [este plugin](), descomprímelo y colócalo en la carpeta de plugins donde UTAU esté instalado. Usar este plugin en un UST va a convertirlo desde los fonemas CZ a fonemas arpabet. Sin embargo, esto no lo volverá perfectamente compatible con un banco de voz arpasing inmediatamente. (Por ejemplo, algunas notas pueden tener más de 2 fonemas). Por favor haz ajustes para acomodar el banco de voz.
+Descarga [este plugin](), descomprímelo y colócalo en la carpeta de plugins donde UTAU esté instalado. Usar este plugin en un UST va a convertirlo desde los fonemas CZ a fonemas arpabet. Sin embargo, esto no lo volverá perfectamente compatible con un banco de voz arpasing de inmediato (por ejemplo, algunas notas pueden tener más de 2 fonemas). Por favor haz ajustes para acomodar el banco de voz.
 Plugin original por ChieP  
 Convertidor inspirado por Ivory @TheIvoryShield  
 Modificaciones al plugin por KLAD
