@@ -1,23 +1,23 @@
-# Voicebank Usage Tutorial without ARPAsing Assisstant
-This tutorial will explain how to use an ARPAsing voicebank in UTAU, without ARPAsing Assistant.
+# Tutorial para el uso de bancos de voz sin ARPAsing Assistant
+Este tutorial explicará cómo usar un banco de voz ARPAsing en UTAU, sin ARPAsing Assistant.
 
-It is in your best interest to have a fully OTO'd voicebank, before making USTs with it, because adjusting the timing of notes will depend on preutterance values.
+Lo mejor es tener un banco de voz cuyo OTO ya haya sido configurado en su totalidad antes de hacer UST con él, porque el ajuste del tiempo de las notas dependerá de los valores de preutterance.
 
-If you aren't using the plugin, you can bypass all of the problems involved in adjusting the timing and incorrect phonemes. However, you miss out on all the convenience of having base conversions.  
-If your computer is able to use ARPAsing Assistant but you choose not to use it, you can open the exe as a standalone program to look up word-to-arpabet conversions. However, if you're completely unable to use it (for example, Mac users) you can use [this website]() to find conversions. The dictionary may not be as robust as the one built into the plugin, but after familiarizing yourself with the phonetic system you should be able to transcribe any missing words yourself. If you're not familiar with Arpabet, you can reference [this article]() or the [phoneme chart]().
+Si no estás usando el plugin, puedes evitar todos los problemas relacionados con ajustar el tiempo y fonemas incorrectos. Sin embargo, perderás los beneficios de tener estas conversiones bases.
+Si tu ordenador es capaz de usar ARPAsing Assistant pero eliges no usarlo, puedes abrir el exe como programa independiente para buscar conversiones palabra-a-arpabet. Sin embargo, si no te es posible usarlo en su totalidad (por ejemplo, usuarios de Mac) puedes usar [este sitio web]() para encontrar conversiones. El diccionario puede no ser tan robusto como el que está integrado al plugin, pero después de familiarizarse con el sistema fonético deberías poder transcribir las palabras que falten por tu cuenta. Si no estás familiarizado/a con Arpabet, puedes guiarte con [este artículo]() o con el [cuadro de fonemas]().
 
-Enter the plain english lyrics into the UST as you normally would, for reference.  
-Change each note to the main CV of the syllable, separating each phoneme with a space. For example, the word "cat" is "K AE T" in arpabet, so change the lyric to say `[k ae]`. Likewise, "steps" is "S T EH P S", so put `[t eh]`.  
-The other essential notes we need are phrase-final notes. Wherever there is a rest after a note, you need to have phoneme to silence. As a rule of thumb, if the rest is less than 1 quarter note long, change the whole rest. If the rest is longer, then only the first quarter note needs to be changed. For "cat" that would be a `[t -]` note, and for "steps" it would be `[s -]`.
+Introduce la letra en inglés al UST como harías normalmente, como referencia.
+Cambia cada nota al CV principal de la sílaba, separando cada fonema con un espacio. Por ejemplo, la palabra "cat" es "K AE T" en arpabet, así que cambia la letra para que diga `[k ae]`. Del mismo modo, "steps" es "S T EH P S", entonces pon `[t eh]`.
+Las otras notas esenciales que necesitamos son las notas al final de la frase. Cada vez que haya un descanso después de una nota, necesitarás tener un fonema seguido de un silencio. Como regla, si el descanso es menor al largo de 1/4 de nota, cambia todo el descanso. Si el descanso es más largo, entonces solo debes cambiar el primer 1/4 de nota. Para "cat" esto sería la nota `[t -]`, y para "steps" sería `[s -]`.
 
-The rest of it is entering transitional notes. This list works on diphones, so every lyric note has two phonemes.  
-Silence counts as one, and is necessary whenever transitioning between sung lyrics and rests. We already covered notes with rests AFTER them, so let's consider notes with rests before. If it starts with a vowel, you can simply add a hyphen. For example, "eye" `[ay]` becomes `[- ay]`. If it starts with a consonant or consonant cluster, you want to work backwards from the innermost consonant. Take "strand" for example. Make a note just before `[r ae]` that has `[t r]`. Make a note just before `[t r]` that has `[s t]`. Make a note just before `[s t]` that has `[- s]`. This gets you a full transition from silence, through the consonants, to the nucleus of the syllable.  
-For transitions between syllables, use this same principle of full transitions from diphone to diphone.
+Lo que queda es introducir las notas transicionales. Esta lista funciona con dífonos, así que cada nota tiene dos fonemas.
+El silencio cuenta como una, y es necesario cada vez que se transicione entre la letra cantada y descansos. Ya cubrimos las notas que tienen descansos AL FINAL, así que veamos las notas con descansos al inicio. Si comienzas con una vocal, puedes solo añadir un guion. Por ejemplo "eye" `[ay]` se vuelve `[- ay]`. Si comienza con una consonante o grupo de consonantes, querrás trabajar hacia atrás desde la consonante más interna. Toma "strand" como ejemplo. Crea una nota justo antes de `[r ae]` que contenga `[t r]`. Crea una nota justo antes de `[t r]` que contenga `[s t]`. Crea una nota justo antes de `[s t]` que contenga `[- s]`. Esto te dará una transición completa desde el silencio, a través de las consonantes, hasta el núcleo de la sílaba.
+Para transiciones entre sílabas, usa este mismo principio de transiciones completas de dífono a dífono.
 
 "stranded on this island"
 `[- s][s t][t r][r ae][ae n][n d][d eh][eh d][d aa][aa n][n dh][dh ih][ih s][s ay][ay l][l eh][eh n][n d][d -]`
 
-The length of the transitional notes depends on the preutterance of the note that follows it. However, you can use your personal judgement to make them longer or shorter.  
-If any particular note sounds strange or off, you can switch to using an alternate recording of the same diphone by adding a numerical suffix, like changing `[f ey]` to `[f ey1]` and so on.
+La duración de las notas transicionales depende de la preutterance de la nota que sigue. Sin embargo, puedes usar tu juicio personal para hacerlas más largas o cortas.
+Si alguna nota en particular suena extraña o fuera de lugar, puedes cambiarla usando grabaciones alternas del mismo dífono añadiendo un sufijo numérico, como cambiar `[f ey]` a `[f ey1]` y así.
 
-From here, you can tune as normal.
+Desde este punto, puedes hacer el tuning como harías normalmente.
