@@ -12,7 +12,7 @@ Note to translator: Please provide example words in your language for each Engli
 | ɑ    | c**o**t              | Mezcla de "a" y "o"|
 | ɒɹ   | st**ar**             | Mezcla de "a" y "o" seguida de "r" inglesa|
 | æ    | b**a**t              | Mezcla de "a" y "e"|
-| eən  | b**an**              | Mezcla de "a" y "e" seguida de "n"|
+| eən  | b**an**              | oc**éan**o ("a" pronunciada más débilmente) |
 | ɛ̃ŋ  | b**an**k             | "e" nasal seguida de "n" nasal|
 | ʌ    | b**u**t              | don**a**r |
 | ɒ    | c**augh**t           | Como la "o", abriendo más la boca, ò |
