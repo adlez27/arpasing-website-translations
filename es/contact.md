@@ -1,3 +1,3 @@
-# Contact
+# Contacto
 
-Contact KLAD about questions, concerns, or general website feedback, by filling out the form below.
+Contacta con KLAD para preguntas, dudas, o comentarios acerca del sitio web, llenando el formulario a continuación.
