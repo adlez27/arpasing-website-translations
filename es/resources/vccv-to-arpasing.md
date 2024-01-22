@@ -1,15 +1,15 @@
-# VCCV to ARPAsing Conversion
+# Conversión de VCCV a ARPAsing
 
-PaintedCZ's VCCV English reclist is popular in the overseas UTAU community, with an abundance of voicebanks and USTs available in that format. These voicebanks and USTs can also be converted to the ARPAsing standard.
+La reclist de inglés VCCV de PaintedCZ es popular en la comunidad occidental de UTAU, con una abundancia de bancos de voz y archivos UST disponibles en ese formato. Estos bancos de voz y archivos UST también pueden convertirse al estándar ARPAsing.
 
-## Converting voicebanks
+## Conversión de bancos de voz
 
-The original organizational structure of VCCV voicebanks splits samples among several subfolders named "CC-", "CV_CVC", and so on. The audio samples should first be taken out of the subfolders and put into the main voicebank folder. Download the index file [here]() and rename it to "index.csv", then add it to the folder.  
-You can now drag and drop the folder into Moresampler for OTO generation. However, **do not rename/number duplicates**. There will be hundreds of duplicates, which will cause ARPAsing Assistant to not function properly. Download [this tool]() to delete the duplicates from the generated OTO. The recommended maximum is between 10-20.
+La estructura organizacional de los bancos de voz VCCV divide las muestras en varias subcarpetas llamadas "CC-", "CV_CVC", etc. Las muestras de audio primero deben sacarse de las subcarpetas y ponerse en la carpeta principal del banco de voz. Descarga el archivo index [aquí]() y renómbralo a "index.csv", luego agrégalo a la carpeta.
+Ahora puedes arrastrar y soltar la carpeta en Moresampler para la generación del OTO. Sin embargo, **no renombres/enumeres los duplicados**. Habrán cientos de duplicados, los cuales causaran que el ARPAsing Assistant no funcione correctamente. Descarga [esta herramienta]() para eliminar los duplicados del OTO generado. El máximo recomendado es entre 10-20.
 
-## Converting USTs
+## Conversión de archivos UST
 
-Download [this plugin](), unzip, and place it in the plugins folder where UTAU is installed. Using this plugin on a UST will convert it from CZ phonemes to arpabet phonemes. However, this will not render it perfectly compatible with an arpasing voicebank immediately. (For example, some notes might have more than 2 phonemes.) Please make adjustments to fit the bank.  
-Original plugin by ChieP  
-Converter inspired by Ivory @TheIvoryShield  
-Plugin modifications by KLAD
+Descarga [este plugin](), descomprímelo y colócalo en la carpeta de plugins donde UTAU esté instalado. Usar este plugin en un UST va a convertirlo desde los fonemas CZ a fonemas arpabet. Sin embargo, esto no lo volverá perfectamente compatible con un banco de voz arpasing inmediatamente. (Por ejemplo, algunas notas pueden tener más de 2 fonemas). Por favor haz ajustes para acomodar el banco de voz.
+Plugin original por ChieP  
+Convertidor inspirado por Ivory @TheIvoryShield  
+Modificaciones al plugin por KLAD
