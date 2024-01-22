@@ -2,7 +2,7 @@
 
 Para publicar tus archivos UST en este directorio, por favor rellena [este formulario]().
 
-- Creator/a del UST
+- Creador/a del UST
 - Notas
 - Demo de audio
 - Descarga
