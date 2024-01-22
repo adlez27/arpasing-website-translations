@@ -1,16 +1,16 @@
-# ARPAsing Reclist Writing Tutorial
+# Tutorial para la escritura de reclists
 
-ARPAsing is not a single, static reclist, but a method of English UTAU. It's similar to how VCV isn't a single reclist, but a method of Japanese UTAU. The only criteria for a reclist being an arpasing reclist is compatibility with Moresampler's auto-OTOer, and with the ARPAsing Assistant plugin.
+ARPAsing no es una reclist única y estática, sino un método de UTAU en inglés. Es similar a cómo VCV no es una única reclist, sino un método de UTAU en japonés. El único criterio para que una reclist sea una reclist ARPAsing es la compatibilidad con el OTO automático de Moresampler y con el plugin ARPAsing Assistant.
 
-You can write your English reclist or reclist addon in any way you like, as long as the phonemes you include directly correspond to Arpabet. Once it's written, you'll need to make an index.csv file in order for Moresampler to know how to OTO it.  
-If you're writing a reclist addon, you can simply add to the existing index.csv for that reclist. If you're making a list from scratch, you'll have to make a new index file. You can use any text editor to create one, but you could also use any csv editor you like.
+Puedes escribir tu reclist en inglés o líneas adicionales de la forma que quieras, mientras los fonemas que incluyas se correspondan directamente al Arpabet. En cuanto esté escrita, necesitarás crear un archivo index.csv para que Moresampler sepa cómo configurar el OTO.
+Si estás escribiendo líneas adicionales, puedes simplemente agregarlas al index.csv existente para esa reclist. Si estás haciendo una lista desde cero, deberás crear un nuevo archivo index. Puedes usar cualquier editor de texto para crear uno, pero también puedes usar el editor de csv que quieras.
 
-The first column contains all the file names, which is generally exactly the same as the reclist file you would use in OREMO. You need to include the file extension. If using a text editor, separate this column from the next column with a comma. The second column has the arpabet version of the phonemes for that line. Each phoneme must be separated by an underscore.  
-Alternatively, you can write your reclist directly in Arpabet to begin with, and separate each phoneme with an underscore. This removes the need to write an index.csv at all.
+La primera columna contiene todos los nombres de los archivos, los cuales son por lo general exactamente los mismos del archivo de reclist que usarías en OREMO. Debes incluir la extensión de archivo. Si estás usando un editor de texto, separa esta columna de la siguiente con una coma. La segunda columna tiene la versión en arpabet de los fonemas para esa línea. Cada fonema debe ser separado por un guion bajo.
+Como alternativa, puedes escribir tu reclist directamente en Arpabet desde el inicio, y separar cada fonema con un guion bajo. Esto elimina completamente la necesidad de escribir un index.csv.
 
-All arpabet phonemes are accepted by Moresampler's auto OTOer, except these:  
+Todos los fonemas arpabet son aceptados por el OTO automático de Moresampler, excepto estos:
 `[em] [en] [eng] [el] [nx] [dx]`
 
-If you've made a reclist addon, you must regenerate the OTO for the whole bank, so that duplicates can be properly numbered.
+Si has hecho líneas adicionales, debes generar el OTO para todo el banco de voz, para que los duplicados sean correctamente enumerados.
 
-In order to make recording easier, you can also make an OREMO comment file. This file is named "OREMO-comment.txt" and goes in the destination folder of the voicebank. The first column contains all the file names, corresponding to the reclist. File extension is not necessary, it just needs to match up to the reclist file. Separate the columns with a tab. The next column has the comment, which is where you can write notes, like how the sample is meant to be pronounced.
+Para hacer la grabación más fácil, también puedes hacer un archivo de comentario de OREMO. El archivo se llama "OREMO-comment.txt" y va en la carpeta destino del banco de voz. La primera columna contiene todos los nombres de los archivos correspondientes a la reclist. La extensión de archivo no es necesaria, solo debe concordar con el archivo de reclist. Separa las columnas con tabulador. En la columna siguiente va el comentario, donde escribes notas, como la forma en que la muestra debe pronunciarse.
