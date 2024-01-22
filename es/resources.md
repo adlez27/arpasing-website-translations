@@ -1,10 +1,10 @@
-# Resources
-- Reclist Writing Tutorial
-- Voicebank Creation Tutorial
-- Voicebank Usage Tutorials
-  - With ARPAsing Assistant
-  - Without ARPAsing Assistant
-- Miscellaneous Resources
-  - Phoneme Chart
-  - Words to Arpabet converter
-  - VCCV to ARPAsing
+# Recursos
+- Tutorial para la escritura de reclists
+- Tutorial para la creación de bancos de voz
+- Tutoriales para el uso de bancos de voz
+  - Con ARPAsing Assistant
+  - Sin ARPAsing Assistant
+- Recursos varios
+  - Cuadro de fonemas
+  - Convertidor de palabras en Arpabet
+  - VCCV a ARPAsing
