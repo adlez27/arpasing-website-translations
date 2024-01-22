@@ -1,9 +1,9 @@
 # Original USTs
 
-To submit your UST to this directory, please fill out [this form]().
+Para publicar tus archivos UST en este directorio, por favor rellena [este formulario]().
 
-- Song title
-- Song writer
-- UST creator
-- Audio demo
-- Download
+- Título de la canción
+- Escritor/a de la canción
+- Creador/a del UST
+- Demo de audio
+- Descarga
