@@ -1,8 +1,8 @@
-# OTO Commissions
+# Comisiones de OTO
 
-To join this directory, please fill out [this form]().
+Para unirte a este directorio, por favor rellena [este formulario]().
 
-- Name
-- Info
-- Price
-- Turnaround
+- Nombre
+- Información
+- Precio
+- Plazo
