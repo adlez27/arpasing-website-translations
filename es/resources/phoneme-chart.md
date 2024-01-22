@@ -15,11 +15,11 @@ Note to translator: Please provide example words in your language for each Engli
 | eən  | b**an**              | oc**éan**o ("a" pronunciada más débilmente) |
 | ɛ̃ŋ  | b**an**k             | "e" nasal seguida de "n" nasal|
 | ʌ    | b**u**t              | don**a**r |
-| ɒ    | c**augh**t           | Como la "o", abriendo más la boca, ò |
+| ɒ    | c**augh**t           | Como la "o", abriendo más la boca, ò catalana |
 | o    | b**ow**l             | p**o**ll**o** |
 | ɔɹ   | p**our**             | "o" seguida de "r" inglesa|
 | ə    | comm**a**            | Sonido con la boca en reposo, "a" átona del catalán |
-| ɛ    | b**e**t              | p**e**z, è |
+| ɛ    | b**e**t              | p**e**z, è catalana |
 | eɹ   | b**ear**             | "e" seguida de "r" inglesa |
 | ə˞   | b**ir**d             | "r" inglesa usada como vocal |
 | ɪ    | b**i**t              | Mezcla de "i" y "e" |
