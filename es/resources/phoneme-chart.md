@@ -40,7 +40,7 @@ Note to translator: Please provide example words in your language for each Engli
 | d    | **d**eep             | **d**ura |
 | ð    | **th**e              | da**d**o |
 | ɾ    | bu**tt**er           | a**r**oma|
-| ɫ̩   | bott**le**           | "l" inglesa o catalana vocalizada, enfatizada|
+| ɫ̩   | bott**le**           | "l" inglesa o catalana silábica |
 | f    | **f**ight            | **f**rasco |
 | g    | **g**uy              | **g**uerra |
 | h    | **h**igh             | "j" suave (andaluza, canaria, latinoamericana) |
@@ -48,7 +48,7 @@ Note to translator: Please provide example words in your language for each Engli
 | dʒ   | **j**oke             | **y**eso (excepto rioplatense) |
 | k    | **k**ite             | "c/qu/k" más aspirada |
 | l    | **l**ie              | **l**imón |
-| ɫ    | pa**l**              | "l" inglesa, catalana enfatizada |
+| ɫ    | pa**l**              | "l" inglesa, catalana final|
 | m    | **m**y               | a**m**or |
 | n    | **n**o               | la**n**a |
 | ŋ    | si**ng**             | "n" nasal (ej.: e**n**gañar) |
