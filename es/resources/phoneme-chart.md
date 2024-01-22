@@ -15,11 +15,11 @@ Note to translator: Please provide example words in your language for each Engli
 | eən  | b**an**              | Mezcla de "a" y "e" seguida de "n"|
 | ɛ̃ŋ  | b**an**k             | "e" nasal seguida de "n" nasal|
 | ʌ    | b**u**t              | don**a**r |
-| ɒ    | c**augh**t           | Como la "o", abriendo más la boca|
+| ɒ    | c**augh**t           | Como la "o", abriendo más la boca, ò |
 | o    | b**ow**l             | p**o**ll**o** |
 | ɔɹ   | p**our**             | "o" seguida de "r" inglesa|
-| ə    | comm**a**            | Sonido con la boca en reposo |
-| ɛ    | b**e**t              | p**e**z|
+| ə    | comm**a**            | Sonido con la boca en reposo, "a" átona del catalán |
+| ɛ    | b**e**t              | p**e**z, è |
 | eɹ   | b**ear**             | "e" seguida de "r" inglesa |
 | ə˞   | b**ir**d             | "r" inglesa usada como vocal |
 | ɪ    | b**i**t              | Mezcla de "i" y "e" |
@@ -36,7 +36,7 @@ Note to translator: Please provide example words in your language for each Engli
 | oʊ   | b**oa**t             | estad**ou**nidense |
 | ɔɪ   | b**oy**              | v**oy** |
 | b    | **b**uy              | **b**allena |
-| tʃ   | **ch**eese           | **ch**ueco |
+| tʃ   | **ch**eese           | **ch**ueco, "tx" catalana o vasca |
 | d    | **d**eep             | **d**ura |
 | ð    | **th**e              | da**d**o |
 | ɾ    | bu**tt**er           | a**r**oma|
@@ -47,20 +47,20 @@ Note to translator: Please provide example words in your language for each Engli
 | ç    | **h**eat             | "j" suave antes de "i" |
 | dʒ   | **j**oke             | **y**eso (excepto rioplatense) |
 | k    | **k**ite             | "c/qu/k" más aspirada |
-| l    | **l**ie              | "l" inglesa |
-| ɫ    | pa**l**              | "l" inglesa enfatizada |
+| l    | **l**ie              | "l" inglesa, calatana |
+| ɫ    | pa**l**              | "l" inglesa, catalana enfatizada |
 | m    | **m**y               | a**m**or |
 | n    | **n**o               | la**n**a |
 | ŋ    | si**ng**             | "n" nasal (ej.: e**n**gañar) |
 | p    | **p**ie              | "p" más aspirada |
 | ʔ    | uh**-**oh            | Silencio entre vocales (oh-oh) |
 | ɹ    | **r**ock             | "r" inglesa, paraguaya o costarricense |
-| s    | **s**igh             | a**s**ado (considerar pronunciación andaluza, canaria, catalana o latinoamericana)|
-| ʃ    | **sh**y              | "y/ll" rioplatense, "ch" andaluza |
+| s    | **s**igh             | a**s**ado (considerar pronunciación andaluza, canaria, catalana o latinoamericana), "z" vasca, "ç" catalana |
+| ʃ    | **sh**y              | "y/ll" rioplatense, "ch" andaluza, "x" vasca, catalana y gallega (no ks) |
 | t    | **t**ie              | "t" más aspirada |
 | θ    | **th**in             | **z**apallo (diferenciada de "s") |
 | v    | **v**egetable        | ha**b**er (nota: "v" realmente se pronuncia con los labios inferiores tocando los dientes superiores) |
 | w    | **w**ater            | **hu**erto |
 | j    | **y**es              | **hi**elo |
-| z    | **z**oo              | Como el zumbido de una abeja |
-| ʒ    | plea**s**ure         | similar a "y/ll" (excepto rioplatense) pero más suave |
+| z    | **z**oo              | Como el zumbido de una abeja, "z" catalana |
+| ʒ    | plea**s**ure         | similar a "y/ll" (excepto rioplatense) pero más suave, "j" catalana |
