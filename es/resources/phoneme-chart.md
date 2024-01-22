@@ -47,7 +47,7 @@ Note to translator: Please provide example words in your language for each Engli
 | ç    | **h**eat             | "j" suave antes de "i" |
 | dʒ   | **j**oke             | **y**eso (excepto rioplatense) |
 | k    | **k**ite             | "c/qu/k" más aspirada |
-| l    | **l**ie              | "l" inglesa, calatana |
+| l    | **l**ie              | **l**imón |
 | ɫ    | pa**l**              | "l" inglesa, catalana enfatizada |
 | m    | **m**y               | a**m**or |
 | n    | **n**o               | la**n**a |
