@@ -1,28 +1,28 @@
-# ARPAsing Resources and Directories
+# Recursos y directorios ARPAsing
 
-ARPAsing is a standard for singing synthesis of the English language in UTAU, originally designed by Kanru Hua.  
-This is a translation. If there's any confusion, please refer to the [original English website]().
+ARPAsing es un estándar para la síntesis de canto del idioma inglés en UTAU, diseñado originalmente por Kanru Hua.  
+Esta es una traducción. En caso de alguna confusión, por favor consultar el [sitio web original en inglés]().
 
-Join the ARPAsing Discord server to get the most up-to-date information, ask for help and support, share your work, and be part of a community of other ARPAsing users.
+Únete al servidor de Discord de ARPAsing para recibir la información más actualizada, pedir ayuda y soporte, compartir tu trabajo y ser parte de una comunidad de otros usuarios de ARPAsing.
 
-# Navigation
+# Navegación
 
 ARPAsing
-- Home
-- Frequently Asked Questions
-- Resources
-	- Reclist Writing
-	- Voicebank Creation
-	- Usage (With Assistant)
-	- Usage (Without Assistant)
-	- Phoneme Chart
-	- VCCV to ARPAsing
-- Directories
+- Página principal
+- Preguntas frecuentes
+- Recursos
+	- Escritura de reclists
+	- Creación de bancos de voz
+	- Uso (con Assistant)
+	- Uso (sin Assistant)
+	- Cuadro de fonemas
+	- VCCV a ARPAsing
+- Directorios
 	- Reclists
-	- OTO Commissions
-	- Voicebanks
-	- Test USTs
-	- Cover USTs
-	- Original USTs
-- About Website
-- Contact
+	- Commisiones de OTO
+	- Bancos de voz
+	- UST de prueba
+	- UST de covers
+	- UST originales
+- Acerca del sitio
+- Contacto
