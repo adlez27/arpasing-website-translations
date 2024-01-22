@@ -40,7 +40,7 @@ Note to translator: Please provide example words in your language for each Engli
 | d    | **d**eep             | **d**ura |
 | ð    | **th**e              | da**d**o |
 | ɾ    | bu**tt**er           | a**r**oma|
-| ɫ̩   | bott**le**           | "l" inglesa vocalizada, enfatizada|
+| ɫ̩   | bott**le**           | "l" inglesa o catalana vocalizada, enfatizada|
 | f    | **f**ight            | **f**rasco |
 | g    | **g**uy              | **g**uerra |
 | h    | **h**igh             | "j" suave (andaluza, canaria, latinoamericana) |
