@@ -1,8 +1,8 @@
-# Test USTs
+# UST de prueba
 
-To submit your UST to this directory, please fill out [this form]().
+Para publicar tus archivos UST en este directorio, por favor rellena [este formulario]().
 
-- UST creator
-- Notes
-- Audio demo
-- Download
+- Creator/a del UST
+- Notas
+- Demo de audio
+- Descarga
