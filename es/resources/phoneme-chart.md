@@ -31,8 +31,8 @@ Note to translator: Please provide example words in your language for each Engli
 | ʊɹ   | p**oor**             | "u" seguida de "r" inglesa |
 | aʊ   | ab**ou**t            | **au**ra |
 | aʊ̃n | p**oun**d            | **aun**que |
-| aɪ   | b**i**te             | c**ai**mán |
-| eɪ   | b**ai**t             | r**ei**no |
+| aɪ   | b**i**te             | c**ai**mán ("i" mezclada con "e") |
+| eɪ   | b**ai**t             | r**ei**no ("i" mezclada con "e") |
 | oʊ   | b**oa**t             | estad**ou**nidense |
 | ɔɪ   | b**oy**              | v**oy** |
 | b    | **b**uy              | **b**allena |
