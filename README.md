@@ -10,6 +10,7 @@ This repo contains all the text content of the [ARPAsing Website](https://arpasi
 - Japanese: WinterdrivE
 - Chinese: [Slidingwall](http://github.com/Slidingwall)
 - Russian: [KagamineP](https://kagaminep.ru/)
+- Spanish: txiv
 
 ## How to contribute
 
