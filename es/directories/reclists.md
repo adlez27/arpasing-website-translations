@@ -1,9 +1,9 @@
 # Reclists
 
-ARPAsing reclists featured in this directory are a full setup that includes the reclist, and index.csv/OREMO comment if necessary.
-They may stand alone, or be addons to an existing arpasing reclist.
-To submit your reclist to this directory, please fill out [this form]().
+Las reclists ARPAsing que aparecen en este directorio son sets completos que incluyen la reclist, un index.csv/comentario de OREMO si se requiere.
+Pueden ser independientes o líneas adicionales para una reclist arpasing ya existente.
+Para publicar tu reclist en este directorio, por favor rellena [este formulario]().
 
-- Writer name
-- Download
-- Notes
+- Nombre del/la escritor/a
+- Descarga
+- Notas
