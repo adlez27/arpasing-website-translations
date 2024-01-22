@@ -55,7 +55,7 @@ Note to translator: Please provide example words in your language for each Engli
 | p    | **p**ie              | "p" más aspirada |
 | ʔ    | uh**-**oh            | Silencio entre vocales (oh-oh) |
 | ɹ    | **r**ock             | "r" inglesa, paraguaya o costarricense |
-| s    | **s**igh             | a**s**ado |
+| s    | **s**igh             | a**s**ado (considerar pronunciación andaluza, canaria, catalana o latinoamericana)|
 | ʃ    | **sh**y              | "y/ll" rioplatense, "ch" andaluza |
 | t    | **t**ie              | "t" más aspirada |
 | θ    | **th**in             | **z**apallo (diferenciada de "s") |
