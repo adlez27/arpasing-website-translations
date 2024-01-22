@@ -1,12 +1,12 @@
-# Voicebank Directory
+# Directorio de bancos de voz
 
-To submit your voicebank to this directory, please fill out [this form]().
+Para publicar tu banco de voz en este directorio, por favor rellena [este formulario]().
 
-## Released Voicebanks
-## Unreleased Voicebanks
+## Bancos de voz públicos
+## Bancos de voz sin publicar
 
-- UTAU Name
-- Creator name
-- Vocal range
-- Audio demo
-- Download
+- Nombre del UTAU
+- Nombre del creador
+- Rango vocal
+- Demo de audio
+- Descarga
