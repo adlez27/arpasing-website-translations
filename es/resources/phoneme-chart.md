@@ -3,7 +3,7 @@
 ## Consonantes
 
 - Ejemplo en inglés
-- Similitud en español
+- Similitud en español o idiomas en contacto con el español
 
 Note to translator: Please provide example words in your language for each English phoneme. Highlight which part of the word has the sound using bold text.
 
