@@ -1,8 +1,8 @@
-# About this website
+# Acerca del sitio
 
-This website is not officially affiliated with Kanru Hua, the creator of ARPAsing. It was primarily written by [KLAD](), with design done by Tomato Hentai. Responsive design (mobile) done by [VocAddict]().
-Hosting is provided by [NeoCities]().  
-This translation was written by [your name here](https://www.your-website.com).  
-Links to voicebanks and USTs are all accredited to those who created them.
+Este sitio web no está afiliado oficialmente con Kanru Hua, el creador de ARPAsing. Fue escrito principalmente por [KLAD](), y diseñado por Tomato Hentai. El diseño adaptable (para dispositivos móviles) fue hecho por [VocAddict]().
+El alojamiento del sitio es provisto por [NeoCities]().  
+Esta traducción fue escrita por [txiv]().  
+Los enlaces a bancos de voz y UST están todos adjudicados a quienes los crearon.
 
-You can support the author by donating on [Ko-fi]().
+Puedes apoyar al autor con tu donación en [Ko-fi]().
