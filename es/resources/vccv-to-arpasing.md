@@ -1,6 +1,6 @@
 # Conversión de VCCV a ARPAsing
 
-La reclist de inglés VCCV de PaintedCZ es popular en la comunidad occidental de UTAU, con una abundancia de bancos de voz y archivos UST disponibles en ese formato. Estos bancos de voz y archivos UST también pueden convertirse al estándar ARPAsing.
+La reclist de inglés VCCV de PaintedCZ es popular en la comunidad internacional de UTAU, con una abundancia de bancos de voz y archivos UST disponibles en ese formato. Estos bancos de voz y archivos UST también pueden convertirse al estándar ARPAsing.
 
 ## Conversión de bancos de voz
 
