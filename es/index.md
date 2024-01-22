@@ -19,7 +19,7 @@ ARPAsing
 	- VCCV a ARPAsing
 - Directorios
 	- Reclists
-	- Commisiones de OTO
+	- Comisiones de OTO
 	- Bancos de voz
 	- UST de prueba
 	- UST de covers
