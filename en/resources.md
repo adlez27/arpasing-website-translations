@@ -5,6 +5,6 @@
   - With ARPAsing Assistant
   - Without ARPAsing Assistant
 - Miscellaneous Resources
-  - Phoneme Chart
+  - Phoneme Chart (Arpabet, X-SAMPA, and CZ Phonemes)
   - Words to Arpabet converter
   - VCCV to ARPAsing
