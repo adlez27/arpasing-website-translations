@@ -1,6 +1,6 @@
 # ARPAsing Website Translations
 
-This repo contains all the text content of the [ARPAsing Website](https://arpasing.neocities.org/) for collaborating on translations.
+This repo contains all the text content of the [ARPAsing Website](https://arpasing.tubs.wtf/) for collaborating on translations.
 
 ## Translators
 
