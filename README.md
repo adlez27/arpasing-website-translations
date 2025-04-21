@@ -11,6 +11,7 @@ This repo contains all the text content of the [ARPAsing Website](https://arpasi
 - Chinese: [Slidingwall](http://github.com/Slidingwall)
 - Russian: [KagamineP](https://kagaminep.ru/)
 - Spanish: txiv
+- Brazillian Portuguese: Pandinhaa11
 
 ## How to contribute
 
